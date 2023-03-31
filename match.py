@@ -75,8 +75,6 @@ class Match:
         fig.suptitle(
             f'{self.team_names[0]} ({self.team_abbreviation[0]}) vs {self.team_names[1]} ({self.team_abbreviation[1]})')
 
-        plt.plot()
-
         return fig
 
     def get_teams_runs_per_over(self) -> tuple:
@@ -136,8 +134,7 @@ class Match:
             ax.bar_label(score, size=10, padding=5)
 
         ax.legend(prop={'size': 10})
-        plt.show()
-
+        
         return fig
 
     def runs_per_over_line(self) -> plt.Figure:
@@ -182,7 +179,6 @@ class Match:
             ax.bar_label(score, size=10, padding=5)
 
         ax.legend(prop={'size': 10})
-        plt.show()
 
         return fig
 
@@ -255,7 +251,6 @@ class Match:
         ax.set_yticks(np.linspace(start, end, step))
 
         ax.legend(prop={'size': 10})
-        plt.show()
 
         return fig
 
@@ -300,6 +295,5 @@ class Match:
         ax.set_yticks(np.linspace(start, end, step))
 
         ax.legend(prop={'size': 10})
-        plt.show()
 
         return fig

@@ -78,5 +78,5 @@ if __name__ == '__main__':
         st.pyplot(match_data.team_2_batting_score())
 
         st.markdown('---')
-        
+
         del search
