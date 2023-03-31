@@ -34,26 +34,26 @@ class Match:
         fig, ax = plt.subplots(1, 2, figsize=(10, 5))
 
         ax[0].pie(
-            teams_run.loc[self.team_names[0]][:2],
+            teams_run.loc[self.team_names[0], 'batsman_run':'extra_runs'],
             startangle=90,
             wedgeprops=dict(width=.4),
-            labels=[f'Batsman ({teams_run.loc[self.team_names[0]][0]})',
-                    f'Extras ({teams_run.loc[self.team_names[0]][1]})'],
+            labels=[f'Batsman ({teams_run.loc[self.team_names[0], "batsman_run"]})',
+                    f'Extras ({teams_run.loc[self.team_names[0], "extra_runs"]})'],
             colors=self.team_colors[0],
         )
 
         ax[1].pie(
-            teams_run.loc[self.team_names[1]][:2],
+            teams_run.loc[self.team_names[1], 'batsman_run':'extra_runs'],
             startangle=90,
             wedgeprops=dict(width=.4),
-            labels=[f'Batsman ({teams_run.loc[self.team_names[1]][0]})',
-                    f'Extras ({teams_run.loc[self.team_names[1]][1]})'],
+            labels=[f'Batsman ({teams_run.loc[self.team_names[1], "batsman_run"]})',
+                    f'Extras ({teams_run.loc[self.team_names[1], "extra_runs"]})'],
             colors=self.team_colors[1],
         )
 
         ax[0].text(
             0., 0.,
-            f"{self.team_abbreviation[0]}: {teams_run.loc[self.team_names[0]][2]}",
+            f'{self.team_abbreviation[0]}: {teams_run.loc[self.team_names[0], "total_runs"]}',
             horizontalalignment='center',
             verticalalignment='center',
             size=15
@@ -61,7 +61,7 @@ class Match:
 
         ax[1].text(
             0., 0.,
-            f"{self.team_abbreviation[1]}: {teams_run.loc[self.team_names[1]][2]}",
+            f'{self.team_abbreviation[1]}: {teams_run.loc[self.team_names[1], "total_runs"]}',
             horizontalalignment='center',
             verticalalignment='center',
             size=15
@@ -134,7 +134,7 @@ class Match:
             ax.bar_label(score, size=10, padding=5)
 
         ax.legend(prop={'size': 10})
-        
+
         return fig
 
     def runs_per_over_line(self) -> plt.Figure:
