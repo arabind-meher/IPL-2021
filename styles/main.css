@@ -1,0 +1,21 @@
+div.block-container {
+    padding-top: 1px;
+}
+
+h1 {
+    font-size: 50px;
+    padding-bottom: 1px;
+}
+
+/*h3 {*/
+/*    font-size: 25px;*/
+/*}*/
+
+section[data-testid="stSidebar"] div.stButton button {
+    /*background-color: brown;*/
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}

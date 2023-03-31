@@ -1,0 +1,61 @@
+,match_no,team_1,team_1_sh,team_2,team_2_sh,date,day,umpire_1,umpire_2,player_of_match,winner,city,venue
+Match 01 (MI vs RCB),1,Mumbai Indians,MI,Royal Challengers Bangalore,RCB,09 April 2021,Friday,KN Ananthapadmanabhan,Nitin Menon,HV Patel,Royal Challengers Bangalore,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 02 (CSK vs DC),2,Chennai Super Kings,CSK,Delhi Capitals,DC,10 April 2021,Saturday,AK Chaudhary,VK Sharma,S Dhawan,Delhi Capitals,Mumbai,"Wankhede Stadium, Mumbai"
+Match 03 (SRH vs KKR),3,Kolkata Knight Riders,KKR,Sunrisers Hyderabad,SRH,11 April 2021,Sunday,KN Ananthapadmanabhan,Nitin Menon,N Rana,Kolkata Knight Riders,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 04 (RR vs PBKS),4,Punjab Kings,PBKS,Rajasthan Royals,RR,12 April 2021,Monday,AK Chaudhary,S Ravi,SV Samson,Punjab Kings,Mumbai,"Wankhede Stadium, Mumbai"
+Match 05 (KKR vs MI),5,Mumbai Indians,MI,Kolkata Knight Riders,KKR,13 April 2021,Tuesday,C Shamshuddin,CB Gaffaney,RD Chahar,Mumbai Indians,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 06 (SRH vs RCB),6,Royal Challengers Bangalore,RCB,Sunrisers Hyderabad,SRH,14 April 2021,Wednesday,Nitin Menon,UV Gandhe,GJ Maxwell,Royal Challengers Bangalore,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 07 (RR vs DC),7,Delhi Capitals,DC,Rajasthan Royals,RR,15 April 2021,Thursday,S Ravi,VK Sharma,JD Unadkat,Rajasthan Royals,Mumbai,"Wankhede Stadium, Mumbai"
+Match 08 (PBKS vs CSK),8,Punjab Kings,PBKS,Chennai Super Kings,CSK,16 April 2021,Friday,AK Chaudhary,AY Dandekar,DL Chahar,Chennai Super Kings,Mumbai,"Wankhede Stadium, Mumbai"
+Match 09 (MI vs SRH),9,Mumbai Indians,MI,Sunrisers Hyderabad,SRH,17 April 2021,Saturday,CB Gaffaney,K Srinivasan,KA Pollard,Mumbai Indians,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 10 (RCB vs KKR),10,Royal Challengers Bangalore,RCB,Kolkata Knight Riders,KKR,18 April 2021,Sunday,C Shamshuddin,Nitin Menon,AB de Villiers,Royal Challengers Bangalore,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 11 (DC vs PBKS),11,Punjab Kings,PBKS,Delhi Capitals,DC,18 April 2021,Sunday,AK Chaudhary,PR Reiffel,S Dhawan,Delhi Capitals,Mumbai,"Wankhede Stadium, Mumbai"
+Match 12 (CSK vs RR),12,Chennai Super Kings,CSK,Rajasthan Royals,RR,19 April 2021,Monday,PR Reiffel,VK Sharma,MM Ali,Chennai Super Kings,Mumbai,"Wankhede Stadium, Mumbai"
+Match 13 (DC vs MI),13,Mumbai Indians,MI,Delhi Capitals,DC,20 April 2021,Tuesday,C Shamshuddin,CB Gaffaney,A Mishra,Delhi Capitals,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 14 (PBKS vs SRH),14,Punjab Kings,PBKS,Sunrisers Hyderabad,SRH,21 April 2021,Wednesday,K Srinivasan,Nitin Menon,JM Bairstow,Sunrisers Hyderabad,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 15 (KKR vs CSK),15,Chennai Super Kings,CSK,Kolkata Knight Riders,KKR,21 April 2021,Wednesday,AY Dandekar,PR Reiffel,F du Plessis,Chennai Super Kings,Mumbai,"Wankhede Stadium, Mumbai"
+Match 16 (RCB vs RR),16,Rajasthan Royals,RR,Royal Challengers Bangalore,RCB,22 April 2021,Thursday,J Madanagopal,S Ravi,D Padikkal,Royal Challengers Bangalore,Mumbai,"Wankhede Stadium, Mumbai"
+Match 17 (PBKS vs MI),17,Mumbai Indians,MI,Punjab Kings,PBKS,23 April 2021,Friday,C Shamshuddin,Nitin Menon,KL Rahul,Punjab Kings,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 18 (RR vs KKR),18,Kolkata Knight Riders,KKR,Rajasthan Royals,RR,24 April 2021,Saturday,Navdeep Singh,S Ravi,CH Morris,Rajasthan Royals,Mumbai,"Wankhede Stadium, Mumbai"
+Match 19 (CSK vs RCB),19,Chennai Super Kings,CSK,Royal Challengers Bangalore,RCB,25 April 2021,Sunday,AK Chaudhary,VK Sharma,RA Jadeja,Chennai Super Kings,Mumbai,"Wankhede Stadium, Mumbai"
+Match 20 (SRH vs DC),20,Delhi Capitals,DC,Sunrisers Hyderabad,SRH,25 April 2021,Sunday,CB Gaffaney,KN Ananthapadmanabhan,PP Shaw,Delhi Capitals,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai"
+Match 21 (PBKS vs KKR),21,Punjab Kings,PBKS,Kolkata Knight Riders,KKR,26 April 2021,Monday,PR Reiffel,YC Barde,EJG Morgan,Kolkata Knight Riders,Ahmedabad,"Narendra Modi Stadium, Ahmedabad"
+Match 22 (DC vs RCB),22,Royal Challengers Bangalore,RCB,Delhi Capitals,DC,27 April 2021,Tuesday,S Ravi,VK Sharma,AB de Villiers,Royal Challengers Bangalore,Ahmedabad,"Narendra Modi Stadium, Ahmedabad"
+Match 23 (CSK vs SRH),23,Sunrisers Hyderabad,SRH,Chennai Super Kings,CSK,28 April 2021,Wednesday,C Shamshuddin,CK Nandan,RD Gaikwad,Chennai Super Kings,Delhi,"Arun Jaitley Stadium, Delhi"
+Match 24 (MI vs RR),24,Rajasthan Royals,RR,Mumbai Indians,MI,29 April 2021,Thursday,CB Gaffaney,KN Ananthapadmanabhan,Q de Kock,Mumbai Indians,Delhi,"Arun Jaitley Stadium, Delhi"
+Match 25 (DC vs KKR),25,Kolkata Knight Riders,KKR,Delhi Capitals,DC,29 April 2021,Thursday,AK Chaudhary,YC Barde,PP Shaw,Delhi Capitals,Ahmedabad,"Narendra Modi Stadium, Ahmedabad"
+Match 26 (PBKS vs RCB),26,Punjab Kings,PBKS,Royal Challengers Bangalore,RCB,30 April 2021,Friday,S Ravi,VK Sharma,Harpreet Brar,Punjab Kings,Ahmedabad,"Narendra Modi Stadium, Ahmedabad"
+Match 27 (MI vs CSK),27,Chennai Super Kings,CSK,Mumbai Indians,MI,01 May 2021,Saturday,KN Ananthapadmanabhan,CK Nandan,KA Pollard,Mumbai Indians,Delhi,"Arun Jaitley Stadium, Delhi"
+Match 28 (RR vs SRH),28,Rajasthan Royals,RR,Sunrisers Hyderabad,SRH,02 May 2021,Sunday,C Shamshuddin,CB Gaffaney,JC Buttler,Rajasthan Royals,Delhi,"Arun Jaitley Stadium, Delhi"
+Match 29 (PBKS vs DC),29,Punjab Kings,PBKS,Delhi Capitals,DC,02 May 2021,Sunday,AK Chaudhary,AY Dandekar,MA Agarwal,Delhi Capitals,Ahmedabad,"Narendra Modi Stadium, Ahmedabad"
+Match 30 (CSK vs MI),30,Chennai Super Kings,CSK,Mumbai Indians,MI,19 September 2021,Sunday,Nitin Menon,RK Illingworth,RD Gaikwad,Chennai Super Kings,Dubai,Dubai International Cricket Stadium
+Match 31 (KKR vs RCB),31,Royal Challengers Bangalore,RCB,Kolkata Knight Riders,KKR,20 September 2021,Monday,CB Gaffaney,S Ravi,CV Varun,Kolkata Knight Riders,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi"
+Match 32 (PBKS vs RR),32,Rajasthan Royals,RR,Punjab Kings,PBKS,21 September 2021,Tuesday,AK Chaudhary,MA Gough,Kartik Tyagi,Rajasthan Royals,Dubai,Dubai International Cricket Stadium
+Match 33 (DC vs SRH),33,Sunrisers Hyderabad,SRH,Delhi Capitals,DC,22 September 2021,Wednesday,KN Ananthapadmanabhan,RK Illingworth,A Nortje,Delhi Capitals,Dubai,Dubai International Cricket Stadium
+Match 34 (MI vs KKR),34,Mumbai Indians,MI,Kolkata Knight Riders,KKR,23 September 2021,Thursday,S Ravi,VK Sharma,SP Narine,Kolkata Knight Riders,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi"
+Match 35 (RCB vs CSK),35,Royal Challengers Bangalore,RCB,Chennai Super Kings,CSK,24 September 2021,Friday,AK Chaudhary,Nitin Menon,DJ Bravo,Chennai Super Kings,Sharjah,Sharjah Cricket Stadium
+Match 36 (DC vs RR),36,Delhi Capitals,DC,Rajasthan Royals,RR,25 September 2021,Saturday,CB Gaffaney,UV Gandhe,SS Iyer,Delhi Capitals,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi"
+Match 37 (SRH vs PBKS),37,Punjab Kings,PBKS,Sunrisers Hyderabad,SRH,25 September 2021,Saturday,RK Illingworth,YC Barde,JO Holder,Punjab Kings,Sharjah,Sharjah Cricket Stadium
+Match 38 (CSK vs KKR),38,Kolkata Knight Riders,KKR,Chennai Super Kings,CSK,26 September 2021,Sunday,CB Gaffaney,Tapan Sharma,RA Jadeja,Chennai Super Kings,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi"
+Match 39 (RCB vs MI),39,Royal Challengers Bangalore,RCB,Mumbai Indians,MI,26 September 2021,Sunday,AK Chaudhary,MA Gough,GJ Maxwell,Royal Challengers Bangalore,Dubai,Dubai International Cricket Stadium
+Match 40 (SRH vs RR),40,Rajasthan Royals,RR,Sunrisers Hyderabad,SRH,27 September 2021,Monday,KN Ananthapadmanabhan,Navdeep Singh,JJ Roy,Sunrisers Hyderabad,Dubai,Dubai International Cricket Stadium
+Match 41 (KKR vs DC),41,Delhi Capitals,DC,Kolkata Knight Riders,KKR,28 September 2021,Tuesday,Nitin Menon,HAS Khalid,SP Narine,Kolkata Knight Riders,Sharjah,Sharjah Cricket Stadium
+Match 42 (MI vs PBKS),42,Punjab Kings,PBKS,Mumbai Indians,MI,28 September 2021,Tuesday,S Ravi,VK Sharma,KA Pollard,Mumbai Indians,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi"
+Match 43 (RR vs RCB),43,Rajasthan Royals,RR,Royal Challengers Bangalore,RCB,29 September 2021,Wednesday,AY Dandekar,KN Ananthapadmanabhan,YS Chahal,Royal Challengers Bangalore,Dubai,Dubai International Cricket Stadium
+Match 44 (SRH vs CSK),44,Sunrisers Hyderabad,SRH,Chennai Super Kings,CSK,30 September 2021,Thursday,Nitin Menon,YC Barde,JR Hazlewood,Chennai Super Kings,Sharjah,Sharjah Cricket Stadium
+Match 45 (KKR vs PBKS),45,Kolkata Knight Riders,KKR,Punjab Kings,PBKS,01 October 2021,Friday,KN Ananthapadmanabhan,RK Illingworth,KL Rahul,Punjab Kings,Dubai,Dubai International Cricket Stadium
+Match 46 (MI vs DC),46,Mumbai Indians,MI,Delhi Capitals,DC,02 October 2021,Saturday,AK Chaudhary,MA Gough,AR Patel,Delhi Capitals,Sharjah,Sharjah Cricket Stadium
+Match 47 (RR vs CSK),47,Chennai Super Kings,CSK,Rajasthan Royals,RR,02 October 2021,Saturday,CB Gaffaney,VK Sharma,RD Gaikwad,Rajasthan Royals,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi"
+Match 48 (RCB vs PBKS),48,Royal Challengers Bangalore,RCB,Punjab Kings,PBKS,03 October 2021,Sunday,KN Ananthapadmanabhan,RK Illingworth,GJ Maxwell,Royal Challengers Bangalore,Sharjah,Sharjah Cricket Stadium
+Match 49 (KKR vs SRH),49,Sunrisers Hyderabad,SRH,Kolkata Knight Riders,KKR,03 October 2021,Sunday,J Madanagopal,MA Gough,Shubman Gill,Kolkata Knight Riders,Dubai,Dubai International Cricket Stadium
+Match 50 (DC vs CSK),50,Chennai Super Kings,CSK,Delhi Capitals,DC,04 October 2021,Monday,AK Chaudhary,Nitin Menon,AR Patel,Delhi Capitals,Dubai,Dubai International Cricket Stadium
+Match 51 (RR vs MI),51,Rajasthan Royals,RR,Mumbai Indians,MI,05 October 2021,Tuesday,AK Chaudhary,MA Gough,NM Coulter-Nile,Mumbai Indians,Sharjah,Sharjah Cricket Stadium
+Match 52 (RCB vs SRH),52,Sunrisers Hyderabad,SRH,Royal Challengers Bangalore,RCB,06 October 2021,Wednesday,S Ravi,UV Gandhe,KS Williamson,Sunrisers Hyderabad,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi"
+Match 53 (CSK vs PBKS),53,Chennai Super Kings,CSK,Punjab Kings,PBKS,07 October 2021,Thursday,K Srinivasan,RK Illingworth,KL Rahul,Punjab Kings,Dubai,Dubai International Cricket Stadium
+Match 54 (KKR vs RR),54,Kolkata Knight Riders,KKR,Rajasthan Royals,RR,07 October 2021,Thursday,MA Gough,HAS Khalid,Shivam Mavi,Kolkata Knight Riders,Sharjah,Sharjah Cricket Stadium
+Match 55 (SRH vs MI),55,Mumbai Indians,MI,Sunrisers Hyderabad,SRH,08 October 2021,Friday,Tapan Sharma,VK Sharma,Ishan Kishan,Mumbai Indians,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi"
+Match 56 (RCB vs DC),56,Delhi Capitals,DC,Royal Challengers Bangalore,RCB,08 October 2021,Friday,KN Ananthapadmanabhan,Nitin Menon,KS Bharat,Royal Challengers Bangalore,Dubai,Dubai International Cricket Stadium
+Match 57 (DC vs CSK),57,Delhi Capitals,DC,Chennai Super Kings,CSK,10 October 2021,Sunday,Nitin Menon,RK Illingworth,RD Gaikwad,Chennai Super Kings,Dubai,Dubai International Cricket Stadium
+Match 58 (RCB vs KKR),58,Royal Challengers Bangalore,RCB,Kolkata Knight Riders,KKR,11 October 2021,Monday,CB Gaffaney,VK Sharma,SP Narine,Kolkata Knight Riders,Sharjah,Sharjah Cricket Stadium
+Match 59 (DC vs KKR),59,Delhi Capitals,DC,Kolkata Knight Riders,KKR,13 October 2021,Wednesday,KN Ananthapadmanabhan,MA Gough,VR Iyer,Kolkata Knight Riders,Sharjah,Sharjah Cricket Stadium
+Match 60 (CSK vs KKR),60,Chennai Super Kings,CSK,Kolkata Knight Riders,KKR,15 October 2021,Friday,Nitin Menon,RK Illingworth,F du Plessis,Chennai Super Kings,Dubai,Dubai International Cricket Stadium
