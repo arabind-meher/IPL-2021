@@ -6,7 +6,7 @@ This project conducts an in-depth analysis of every match in the IPL 2021 season
 <br>
 </div>
 
-[For more details click here](https://github.com/arabind-meher/IPL-2021-Analysis.git)
+For detailed analysis [click here](https://github.com/arabind-meher/IPL-2021-Analysis.git)
 
 ### Requirements
 #### [Python](https://www.python.org/)
