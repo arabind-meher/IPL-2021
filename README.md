@@ -1,57 +1,99 @@
-# IPL (2021) Data Analysis
-<div style="text-align: justify">
-The Indian Premier League (IPL) is one of the world's most popular Twenty20 cricket leagues, attracting millions of viewers and fans globally. This report briefly analyzes IPL data, focusing on key statistics, trends, and insights from the tournament up to the 2021 season.<br>
-<br>
-This project conducts an in-depth analysis of every match in the IPL 2021 season, producing data on team scores, run rates per over, and individual batters's scores for each game. The example below is from the final match between CSK and KKR. We can generate similar results for every match in IPL 2021. <br>
-<br>
-</div>
+# 🏏 IPL 2021 - Interactive Match Dashboard
 
-For detailed analysis [click here](https://github.com/arabind-meher/IPL-2021-Analysis.git)
+This project is a **Streamlit-based interactive web app** that provides a detailed analysis of **every match from the 2021 Indian Premier League (IPL)**. It enables users to explore team scores, run rates, and player performance with beautiful visualizations and dynamic selection tools.
 
-### Requirements
-#### [Python](https://www.python.org/)
-<div style="text-align: justify">
-Python is a versatile language widely used in data analysis for data collection, cleaning, exploratory analysis, statistics, machine learning, natural language processing, and data visualization. Its simplicity, extensive library support, and collaborative tools make it a top choice for efficient and reproducible data analysis across various domains.
-</div>
+---
 
-#### [Numpy](https://numpy.org/)
-```pip install numpy```
-<div style="text-align: justify">
-NumPy is a critical library for data analysis, providing efficient array structures and mathematical functions that enhance data manipulation, computation, and integration with other analysis tools, contributing to faster and more effective data processing and analysis workflows.
-</div>
+## 🚀 Features
 
-#### [Pandas](https://pandas.pydata.org/)
-```pip install pandas```
-<div style="text-align: justify">
-Pandas, a crucial Python library, simplifies data analysis by providing efficient structures like DataFrames and Series. It streamlines data manipulation, cleaning, integration, and preprocessing, making it an essential tool for data analysts across domains.
-</div>
+- 📊 Interactive analysis of all IPL 2021 matches
+- 🏏 Team-wise and player-wise score visualizations
+- 📈 Over-wise run rate charts (bar and line)
+- 🥇 Player of the match, venue, umpires, and other key details
+- 🎨 Stylish UI with custom CSS and theming
 
-#### [Matplotlib](https://matplotlib.org/)
-```pip install matplotlib```
-<div style="text-align: justify">
-Matplotlib is a vital Python library that simplifies the creation of customizable data visualizations like line plots, scatter plots, and bar charts, aiding data analysts in communicating insights effectively and exploring data patterns. At the same time, its compatibility with other analysis tools further enhances its utility in data analysis.
-</div>
+---
 
-#### [Streamlit](https://streamlit.io/)
-```pip install streamlit```
-<div style="text-align: justify">
-Streamlit streamlines data analysis by providing a user-friendly platform to create interactive web apps from analysis scripts. It facilitates data visualization, exploration, and sharing, empowering analysts to build interactive dashboards and applications with ease.
-</div>  
+## 📂 Project Structure
 
-## Match Details (Final Match)
-![Point Table](screenshots/match_details.png)
+```
+IPL-2021/
+├── app.py                  # Main Streamlit application
+├── match.py                # Match class for visualizations
+├── dataset/                # Match-level and point table CSVs
+├── assets/                 # App icons, logos
+├── styles/
+│   └── main.css            # Custom CSS styling
+├── config.toml             # Streamlit theme configuration
+├── requirements.txt        # Python dependencies
+├── .gitignore
+└── README.md
+```
 
-### Teams Score
-![Teams Score](screenshots/teams_score.png)
+---
 
-### Runs per Over
-#### Bar Graph
-![Runs per Over (Bar)](screenshots/runs_per_over_bar.png)
-#### Line Graph
-![Runs per Over (Line)](screenshots/runs_per_over_line.png)
+## 🧱 Technology Stack
 
-### Teams Batting Score
-#### Team 1 (Chennai Super Kings)
-![Team 1 Batting Score](screenshots/team_1_batting_score.png)
-#### Team 2 (Kolkata Knight Riders)
-![Team 2 Batting Score](screenshots/team_2_batting_score.png)
+- **Streamlit** – for building the interactive web app
+- **Pandas / NumPy** – for data manipulation
+- **Matplotlib** – for plotting graphs
+- **Pillow** – for image processing
+- **Custom CSS + TOML** – for visual styling
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/arabind-meher/IPL-2021.git
+   cd IPL-2021
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Streamlit app**:
+   ```bash
+   streamlit run app.py
+   ```
+
+> 📝 The app reads match data from the `dataset/` folder and allows analysis of individual matches via sidebar inputs.
+
+---
+
+## 📸 Dashboard Preview
+
+### 📝 Match Summary
+![Match](screenshots/match_details.png)
+
+### 🏏 Teams Score
+![Score](screenshots/teams_score.png)
+
+### 📊 Runs per Over
+**Bar Graph**  
+![Bar](screenshots/runs_per_over_bar.png)
+
+**Line Graph**  
+![Line](screenshots/runs_per_over_line.png)
+
+### 🧑‍💻 Teams Batting Score
+**Team 1 (Chennai Super Kings)**  
+![CSK](screenshots/team_1_batting_score.png)
+
+**Team 2 (Kolkata Knight Riders)**  
+![KKR](screenshots/team_2_batting_score.png)
+
+---
+
+## 📬 Contact
+
+**Author:** Arabind Meher  
+🔗 [LinkedIn](https://www.linkedin.com/in/arabind-meher)  
+🔗 [GitHub](https://github.com/arabind-meher)
+
+---
+
+📌 _Note: Screenshots demonstrate the final match. The dashboard supports **dynamic match selection** for all IPL 2021 games._
